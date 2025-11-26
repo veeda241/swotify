@@ -1,0 +1,7 @@
+{
+  "name": "Swotify",
+  "description": "An AI-powered assistant for parent-teacher meetings that captures, analyzes, and reports on educational conversations in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
